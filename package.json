@@ -1,0 +1,30 @@
+{
+  "name": "insomnia-plugin-ocean-dark-theme",
+  "version": "1.0.0",
+  "description": "A Dark theme for Insomnia",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Albert Hernandez <alberthendandezdev@gmail.com>",
+  "homepage": "https://github.com/AlbertHernandez/insomnia-plugin-ocean-dark-theme#readme",
+  "insomnia": {
+    "name": "Ocean Dark",
+    "description": "A Dark theme for Insomnia",
+    "displayName": "Ocean Dark Theme",
+    "applications": {
+      "core": "*"
+    },
+    "publisher": {
+      "name": "Albert Hernandez"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertHernandez/insomnia-plugin-ocean-dark-theme.git"
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "insomnia-theme"
+  ]
+}
